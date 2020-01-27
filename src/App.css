@@ -1,0 +1,11 @@
+.todo{
+    width: 50%;
+}
+
+.ss{
+    width: 50%;
+    height: 20px;
+}
+.complete{
+    text-decoration: line-through;
+}
